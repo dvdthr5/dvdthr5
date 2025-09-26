@@ -1,8 +1,8 @@
 # 👋 Hey, I’m David Glover  
 
 🚀 Computer Science @ UCSC (Class of 2027)  
-💡 Aspiring software engineer, researcher, and builder  
-🎨 Also an artist & anime enthusiast (One Piece crew forever ☠️)  
+Aspiring software engineer, researcher, and builder  
+Also an artist & anime enthusiast (One Piece crew forever ☠️)  
 
 ---
 
@@ -10,9 +10,9 @@
 
 I’m passionate about blending creativity with technology — whether it’s building full-stack applications, exploring AI/ML, or wiring up hardware on a Raspberry Pi rover. I thrive in **hands-on projects** where I can problem-solve, iterate, and deliver something real.  
 
-- 🔭 **Current Interests:** Machine Learning, AR/VR, robotics, full-stack development  
-- 🛠️ **Strengths:** Problem solving, adaptability, and picking up new tools quickly  
-- 🎯 **Goal:** Land research/internship opportunities to grow my technical & collaborative skills  
+- **Current Interests:** Machine Learning, AR/VR, robotics, full-stack development  
+- **Strengths:** Problem solving, adaptability, and picking up new tools quickly  
+- **Goal:** Land research/internship opportunities to grow my technical & collaborative skills  
 
 ---
 
