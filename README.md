@@ -48,14 +48,6 @@ GUI-based bill organizer & collector:
 
 ---
 
-### 🎴 Vendr (Mobile App, iOS-first)  
-Inspired by Collectr — helps vendors track trades & sales:  
-- 📸 Take a picture of a Pokémon card → fetch metadata & raw prices  
-- 💾 MongoDB backend for user accounts & portfolio progress  
-- 🔗 Price data pulled from TCGPlayer + web scrapers  
-
----
-
 ### 🧩 Pokémon Chrome Extension  
 - Scrapes Pokémon card listings on eBay  
 - Enriches data with PokéAPI card metadata  
@@ -71,10 +63,12 @@ Inspired by Collectr — helps vendors track trades & sales:
 ---
 
 ### 🧪 Coursework & Academic Projects  
-- CSE 107 (Probability/Stats): Worked on joint/marginal PMFs & conditional expectation problems  
-- Writing 2: Developed critical analysis papers (Kafka’s *The Trial*, ghostly women in cinema, etc.)  
-- Physics + Bio: Labs & exam prep in cellular respiration, photosynthesis, EM waves  
-
+- **CSE 101** – Introduction to Data Structures and Algorithms  
+- **CSE 101M** – Advanced Programming Lab in Data Structures and Algorithms  
+- **CSE 120** – Computer Architecture  
+- **CSE 130** – Principles of Computer Systems Design  
+- **STAT 131** – Introduction to Probability Theory  
+- **Writing 2** – Rhetoric and Inquiry
 ---
 
 ## 📊 GitHub Activity  
@@ -87,7 +81,6 @@ Inspired by Collectr — helps vendors track trades & sales:
 ## 🌍 Beyond Code  
 
 - 🍦 Food service veteran (shift leader, training new staff, trusted with responsibilities)  
-- 🎨 Artist who loves anime (especially One Piece — straw hat vibes)  
 - 🔧 Custom PC builder & tinkerer  
 - 🌱 Always exploring new languages, frameworks, and hardware hacks  
 
@@ -95,10 +88,6 @@ Inspired by Collectr — helps vendors track trades & sales:
 
 ## 📫 Let’s Connect  
 
-- 📧 Email: **your.email@example.com**  
-- 💼 LinkedIn: [linkedin.com/in/your-link](#)  
-- 📝 Portfolio: [your-portfolio-site.com](#)  
-
----
-
-✨ *Thanks for stopping by! My repos show how I learn, iterate, and build — one project at a time.*  
+- 📧 Email: david05glover@gmail.com  
+- 💼 LinkedIn: [linkedin.com/in/dgglover](#)  
+- 📝 Portfolio: [davidglover.vercel.app](#)  
