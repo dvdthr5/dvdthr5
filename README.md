@@ -73,8 +73,8 @@ GUI-based bill organizer & collector:
 
 ## 📊 GitHub Activity  
 
-![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=GalexY727&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GalexY727&layout=compact&theme=tokyonight)  
+![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=dvdthr5&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dvdthr5&layout=compact&theme=tokyonight)  
 
 ---
 
