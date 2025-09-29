@@ -90,4 +90,4 @@ GUI-based bill organizer & collector:
 
 - 📧 Email: david05glover@gmail.com  
 - 💼 LinkedIn: [linkedin.com/in/dgglover](#)  
-- 📝 Portfolio: [davidglover.vercel.app](#)  
+- 📝 Portfolio: [dvdthrower.com](#)  
