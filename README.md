@@ -2,7 +2,7 @@
 
 🚀 Computer Science @ UCSC (Class of 2027)  
 Aspiring software engineer, researcher, and builder  
-Also an artist & anime enthusiast (One Piece crew forever ☠️)  
+One Piece Enthusiast
 
 ---
 
@@ -23,11 +23,38 @@ I’m passionate about blending creativity with technology — whether it’s bu
 | Languages | Python, C, C++, Java, JavaScript, SQL |
 | Frameworks | Tkinter, PyQt6, Flask, React, Node.js |
 | Databases | MongoDB, SQLite |
-| Other | Git/GitHub, OpenCV, Web Scraping, API Integration, Docker |
+| Other | Git/GitHub, OpenCV, Web Scraping, API Integration, Docker, Kubernetes |
 
 ---
 
 ## 📂 Featured Projects  
+
+### 🧠 Pokémon Recognizer  
+Neural network image classifier for Pokémon identification:  
+- Trained on 120,000+ labeled Pokémon images using TensorFlow and transfer learning  
+- Automated dataset preprocessing and augmentation  
+- Deployed inference model using FastAPI, Docker, and Kubernetes for scalable, reproducible results  
+- Supports RESTful API predictions for real-time image recognition  
+
+---
+
+### 💸 Personal Finance Dashboard  
+- Full-stack finance tracker with live stock prices via Twelve Data API  
+- Interactive Streamlit frontend for managing holdings and viewing portfolio analytics  
+- Secure FastAPI backend with MongoDB integration for persistent user accounts  
+- Includes state-based tax calculator and automated realized gains tracking  
+
+---
+
+### 🤖 URC Slugbotics Rover Project 
+- Developing a full ROS 2 based software stack for the Slugbotics URC Rover
+- Using Docker for cross-platform development and reproducible results
+- Integrating Webots simulation for virtual testing and rover dynamics
+- Planning hardware control through Raspberry Pi + CAN bus communication
+- Implementing vision and autonomy modules using OpenCV and onboard cameras
+- Creating modular ROS packages for drive control, arm manipulation, and sensor fusion
+
+---
 
 ### 🐌 SlugHub (PyQt6 App)  
 All-in-one UCSC student toolkit:  
@@ -37,28 +64,6 @@ All-in-one UCSC student toolkit:
 - 🔑 Secure login/registration system with bcrypt + MongoDB  
 
 ➡️ *Built for performance, persistence, and student usability.*  
-
----
-
-### 💸 William the Bill Bot  
-GUI-based bill organizer & collector:  
-- Add bills (who paid, amount, date/time auto-logged)  
-- Splits costs evenly, tracks who owes who  
-- “Paid” button to resolve debts while keeping history  
-
----
-
-### 🧩 Pokémon Chrome Extension  
-- Scrapes Pokémon card listings on eBay  
-- Enriches data with PokéAPI card metadata  
-- Cross-checks live prices from PriceCharting.com  
-- Displays market value overlay directly in browser  
-
----
-
-### 🤖 Rover Project  
-- Raspberry Pi + OpenCV camera integration  
-- Building a user interface for remote control & vision features  
 
 ---
 
