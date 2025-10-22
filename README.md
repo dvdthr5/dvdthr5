@@ -2,7 +2,6 @@
 
 🚀 Computer Science @ UCSC (Class of 2027)  
 Aspiring software engineer, researcher, and builder  
-One Piece Enthusiast
 
 ---
 
