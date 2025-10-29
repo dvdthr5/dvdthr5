@@ -15,6 +15,29 @@ I’m passionate about blending creativity with technology — whether it’s bu
 
 ---
 
+## 🚧 Current Work
+
+I’m currently focused on building tools to streamline data collection for training machine learning models using gameplay data.
+
+# 🎮 Project Focus
+
+I’m developing a Python-based controller input logger designed to record both Nintendo gameplay footage and controller inputs in real time.
+The system will:
+	•	Capture synchronized video and input data during gameplay
+	•	Output timestamped .csv logs aligned with recorded video
+	•	Enable automated labeling, segmentation, and analysis of gameplay for ML training
+
+# 🧠 Purpose
+
+The goal is to create a reliable data pipeline that allows for:
+	•	Large-scale dataset generation from real matches
+	•	Frame-accurate alignment between visual data and controller events
+	•	Analytical studies and model training on player behavior and move recognition
+
+---
+
+
+
 ## 🧰 Tech Stack  
 
 | Category | Tools |
