@@ -21,7 +21,7 @@ I’m currently focused on building tools to streamline data collection for trai
 
 **🎮 Project Focus**
 
-I’m developing a Python-based controller input logger designed to record both Nintendo gameplay footage and controller inputs in real time.
+I’m developing a Python-based controller input logger designed to record both gameplay footage and controller inputs in real time.
 The system will:
 - Capture synchronized video and input data during gameplay
 - Output timestamped .csv logs aligned with recorded video
