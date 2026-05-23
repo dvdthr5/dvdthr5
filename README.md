@@ -116,5 +116,5 @@ All-in-one UCSC student toolkit:
 ## 📫 Let’s Connect  
 
 - 📧 Email: david05glover@gmail.com  
-- 💼 LinkedIn: [www.linkedin.com/in/dgglover](#)  
-- 📝 Portfolio: [www.dvdthrower.com](#)  
+- 💼 LinkedIn: [DavidGlover](https://www.linkedin.com/in/davidgglover/)  
+- 📝 Portfolio: [dvdThrower.com](https://www.dvdthrower.com/)  
