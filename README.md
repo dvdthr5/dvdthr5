@@ -34,7 +34,8 @@ RASEIS: A complete pipeline to turn radar scans into actionable data that will b
 
 - Avid Kendama player and enthusiast
 - Lover of geography
-- Trivia fan and player 
+- Trivia fan and player
+- Unoffical One Piece Ambassador 
 
 ---
 
