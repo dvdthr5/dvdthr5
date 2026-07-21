@@ -33,8 +33,8 @@ RASEIS: A complete pipeline to turn radar scans into actionable data that will b
 ## 🌍 Beyond Code  
 
 - Avid Kendama player and enthusiast
-- National Geographic fan
-- Trivia fan and player
+- Lover of geography
+- Trivia fan and player 
 
 ---
 
