@@ -1,11 +1,11 @@
-# 👋 Hey, I’m David Glover  
+#  Hey, I’m David Glover  
 
-🚀 Computer Science @ UCSC (Class of 2027)  
+ Computer Science @ UCSC (Class of 2027)  
 Full Stack Developer, Research Assistant, and Builder 
 
 ---
 
-## 🌟 About Me  
+##  About Me  
 
 I care about building real systems that emphasize modularity, functionality, and efficiency and have a tangible impact on my community. 
 
@@ -15,7 +15,7 @@ I care about building real systems that emphasize modularity, functionality, and
   
 ---
 
-## 🚧 Current Work
+##  Current Work
 
 I'm currently focuessed on two projects: NodeFlow and RASEIS
 
@@ -25,7 +25,7 @@ RASEIS: A complete pipeline to turn radar scans into actionable data that will b
 
 ---
 
-## 🌍 Beyond Code  
+##  Beyond Code  
 
 - Avid Kendama player and enthusiast
 - Lover of geography
@@ -34,8 +34,8 @@ RASEIS: A complete pipeline to turn radar scans into actionable data that will b
 
 ---
 
-## 📫 Let’s Connect  
+##  Let’s Connect  
 
-- 📧 Email: david05glover@gmail.com  
-- 💼 LinkedIn: [DavidGlover](https://www.linkedin.com/in/davidgglover/)  
-- 📝 Portfolio: [dvdThrower.com](https://www.dvdthrower.com/)  
+-  Email: david05glover@gmail.com  
+-  LinkedIn: [DavidGlover](https://www.linkedin.com/in/davidgglover/)  
+-  Portfolio: [dvdThrower.com](https://www.dvdthrower.com/)  
